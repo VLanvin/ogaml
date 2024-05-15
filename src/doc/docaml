@@ -1,0 +1,13 @@
+name: ogaml
+
+modules: ../core/ogamlCore.mli
+         ../math/ogamlMath.mli
+         ../utils/ogamlUtils.mli
+         ../graphics/ogamlGraphics.mli
+         ../audio/ogamlAudio.mli
+
+custom css: ogaml.css
+
+header logo: ogaml-logo.svg
+
+favicon: favicon-ogaml.ico

@@ -1,0 +1,19 @@
+body {
+  background: linear-gradient(to bottom, rgb(255, 156, 6) 0,rgb(255, 156, 6) 150pt,rgb(225, 232, 237) 150pt,rgb(225, 232, 237) 100%) no-repeat;
+}
+
+aside {
+  background-color: rgb(251, 251, 251);
+}
+
+header {
+  background-color: rgb(255, 156, 6);
+}
+
+aside a {
+  color: rgb(116, 131, 134);
+}
+
+aside a:hover {
+  color: rgb(17, 18, 18);
+}

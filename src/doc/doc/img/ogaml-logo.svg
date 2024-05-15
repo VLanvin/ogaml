@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 306.2 77.9" enable-background="new 0 0 306.2 77.9" xml:space="preserve">
+<g id="helpers">
+	
+		<rect x="176.8" y="113.2" display="none" fill="none" stroke="#208ABF" stroke-width="5" stroke-miterlimit="10" width="50" height="50"/>
+	
+		<rect x="239" y="113.2" display="none" fill="none" stroke="#208ABF" stroke-width="5" stroke-miterlimit="10" width="50" height="50"/>
+</g>
+<g id="Calque_1">
+	<rect y="-118.1" display="none" fill="#FFB000" width="306.2" height="306.4"/>
+	<g display="none">
+		
+			<circle display="inline" fill="none" stroke="#208ABF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="45.2" cy="35.1" r="25"/>
+		
+			<path display="inline" fill="none" stroke="#208ABF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M103.4,10.1c-13.8,0-25,11.2-25,25s11.2,25,25,25"/>
+		
+			<path display="inline" fill="none" stroke="#BD2034" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M102.9,60.1c13.8,0,25-11.2,25-25h-25"/>
+		
+			<polyline display="inline" fill="none" stroke="#208ABF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			135,60.1 156.6,10.1 177.4,60.1 		"/>
+		
+			<polyline display="inline" fill="none" stroke="#208ABF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			188.5,60.1 188.5,10.1 213.5,35.1 238.6,10.1 238.6,60.1 		"/>
+		
+			<polyline display="inline" fill="none" stroke="#208ABF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			250.7,10.1 250.7,60.1 285.9,60.1 		"/>
+	</g>
+	<g id="ogaml_white">
+		
+			<circle fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="45.2" cy="38.9" r="25"/>
+		<path fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M103.4,13.9c-13.8,0-25,11.2-25,25s11.2,25,25,25"/>
+		<path fill="none" stroke="#BD2034" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M102.9,64c13.8,0,25-11.2,25-25h-25"/>
+		
+			<polyline fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			135,64 156.6,13.9 177.4,64 		"/>
+		
+			<polyline fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			188.5,64 188.5,13.9 213.5,38.9 238.6,13.9 238.6,64 		"/>
+		
+			<polyline fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			250.7,13.9 250.7,64 285.9,64 		"/>
+	</g>
+</g>
+</svg>

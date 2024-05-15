@@ -5,9 +5,7 @@ html {
 }
 
 body {
-  /*background-color: rgb(225, 232, 237);*/
-  /*background-color: rgb(254, 246, 254);*/
-  background: linear-gradient(to bottom, rgb(255, 156, 6) 0,rgb(255, 156, 6) 150pt,rgb(225, 232, 237) 150pt,rgb(225, 232, 237) 100%) no-repeat;
+  background-color: rgb(225, 232, 237);
   font-size: 1.5rem;
   padding: 0;
   margin: 0;
@@ -83,7 +81,7 @@ nav {
 @media only screen and (max-width: 760pt) {
   nav {
     display: block;
-    background-color: rgb(255, 156, 6);
+    background-color: rgb(6, 136, 255);
     width: 100%;
     height: 30pt;
     position: fixed;
@@ -178,7 +176,7 @@ nav {
 /* The side bar */
 aside {
   z-index: 2;
-  background-color: rgb(251, 251, 251);
+  background-color: rgb(94, 138, 196);
   width: 150pt;
   position: fixed;
   top: 0;
@@ -214,8 +212,27 @@ aside {
 }
 
 header {
-  background-color: rgb(255, 156, 6);
+  background-color: rgb(6, 121, 255);
+  padding: 1rem;
 }
+
+header h1 {
+  text-align: center;
+}
+
+header h1 a {
+  text-align: center;
+  color: #ffffff;
+}
+
+header h1 a:hover {
+  color: #cfcfcf;
+}
+
+/* header a {
+  padding-left: 0;
+  width: 100%;
+} */
 
 /*@media only screen and (max-width: 760pt) {
   header {
@@ -263,12 +280,7 @@ aside a {
   /*display: block;*/
   /*padding-left: 2pt;*/
   /*width: calc(100% - 2pt);*/
-  color: rgb(116, 131, 134);
-}
-
-header a {
-  padding-left: 0;
-  width: 100%;
+  color: rgb(55, 63, 65);
 }
 
 aside a:hover {
